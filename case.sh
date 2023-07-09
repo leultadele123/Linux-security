@@ -13,6 +13,7 @@ echo "You used Linux"
 Android|android|a|A)
 echo "You used Android"
 
+#defult case
 *)
 echo "You used Other OS"
 
